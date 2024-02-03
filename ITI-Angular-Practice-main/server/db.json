@@ -33,14 +33,6 @@
       "catId": 3
     },
     {
-      "id": "50",
-      "name": "Headphones",
-      "quantity": 5,
-      "price": 8000,
-      "imgUrl": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "catId": 4
-    },
-    {
       "id": "60",
       "name": "Smartwatch",
       "quantity": 9,
